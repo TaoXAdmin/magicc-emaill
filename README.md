@@ -1,1 +1,1 @@
-# magicc-emaill
+# magicc-emailla
